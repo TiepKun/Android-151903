@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color> <!-- Black -->
+    <color name="white">#FFFFFFFF</color> <!-- White -->
+    <color name="red">#FFFF0000</color> <!-- Red -->
+    <color name="green">#FF00FF00</color> <!-- Green -->
+    <color name="blue">#FF0000FF</color> <!-- Blue -->
+    <color name="yellow">#FFFFFF00</color> <!-- Yellow -->
+    <color name="cyan">#FF00FFFF</color> <!-- Cyan -->
+    <color name="magenta">#FFFF00FF</color> <!-- Magenta -->
+    <color name="gray">#D3D3D3</color> <!-- Light Gray -->
+    <color name="light_gray">#F1F1F1</color> <!-- Lighter Gray -->
+
+    <!-- Basic Colors -->
+    <color name="aqua">#FF00FFFF</color> <!-- Aqua -->
+    <color name="fuchsia">#FFFF00FF</color> <!-- Fuchsia -->
+    <color name="gold">#FFFFD700</color> <!-- Gold -->
+    <color name="lime">#FF00FF00</color> <!-- Lime -->
+    <color name="navy">#FF000080</color> <!-- Navy -->
+    <color name="olive">#FF808000</color> <!-- Olive -->
+    <color name="purple">#FF800080</color> <!-- Purple -->
+    <color name="silver">#FFC0C0C0</color> <!-- Silver -->
+    <color name="teal">#FF008080</color> <!-- Teal -->
+
+    <!-- Extended Colors -->
+    <color name="dark_red">#FF8B0000</color> <!-- Dark Red -->
+    <color name="light_green">#FF90EE90</color> <!-- Light Green -->
+    <color name="dark_blue">#FF00008B</color> <!-- Dark Blue -->
+    <color name="orange">#FFFFA500</color> <!-- Orange -->
+    <color name="pink">#FFFFC0CB</color> <!-- Pink -->
+    <color name="brown">#FFA52A2A</color> <!-- Brown -->
+    <color name="khaki">#FFF0E68C</color> <!-- Khaki -->
+    <color name="lavender">#FFE6E6FA</color> <!-- Lavender -->
+    <color name="coral">#FFFF7F50</color> <!-- Coral -->
+    <color name="salmon">#FFFA8072</color> <!-- Salmon -->
+
+    <!-- Custom Gray Shades -->
+    <color name="dark_gray">#A9A9A9</color> <!-- Dark Gray -->
+    <color name="light_gray_2">#DCDCDC</color> <!-- Gainsboro -->
+    <color name="dim_gray">#696969</color> <!-- Dim Gray -->
+    <color name="button_gray">#B0BEC5</color>
+    <color name="button_text">#000000</color>
+    <color name="button_border_color">#424242</color>
+</resources>
